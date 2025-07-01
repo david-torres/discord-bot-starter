@@ -24,7 +24,7 @@ A starter template for building Discord bots with discord.js.
    ```
 3. Create a `.env` file in the root of the project and add your bot token and client ID:
    ```
-   DISCORD_TOKEN=your_token_here
+   TOKEN=your_token_here
    CLIENT_ID=your_client_id_here
    ```
 4. Deploy the commands to your server:
