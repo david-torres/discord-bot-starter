@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot-starter",
+  "version": "1.0.0",
+  "description": "A starter template for building Discord bots with discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.21.2"
+  }
+}
